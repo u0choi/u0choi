@@ -2,7 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=u0choi%20&fontSize=90)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=u0choi)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=u0choi)
+
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=#02569B"/>
 
 <!--
 **u0choi/u0choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
